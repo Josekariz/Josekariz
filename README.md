@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Josekariz&show_icons=true&theme=dracula"/>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-[![Josekariz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Josekariz)](https://github.com/anuraghazra/github-readme-stats)
+
  
 ## Languages am intrested in 😄 
 
