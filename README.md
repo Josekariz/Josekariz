@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
  
-## Languages am intrested in 😄 
+## Languages am interested in 😄 
 
 <img align="left" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
@@ -38,24 +38,24 @@ Here are some ideas to get you started:
 [Hao](https://github.com/Josekariz/hao-frontend)
 
 [🌐 16ixteenbeatz]
-[Being the first project I desired and pushed myself to new areas in an attemnt to create an offline music player site.]
+[Being the first project I desired and pushed myself to new areas in an attempt to create an offline music player site.]
 
 [16ixteenbeatz](https://github.com/josekariz/16ixteenbeatz)
 
 [📱 Happybarks]
-[The aim was to create a system that would sharpen dogs skills and improve health of mans best friend.]
+[The aim was to create a system that would sharpen dogs' skills and improve the health of man's best friend.]
 
 [happybarks](https://github.com/Josekariz/happybarks_1)
 
 ## 🔧 Skills
 
-I have aquired the following skills during my study time.
+I have acquired the following skills during my study time.
 [💻 A fast learner]<br/>
 [💻 Determined]<br/>
 [💻 Team player]<br/>
-[💻 frameworks like tailwind and bootrap css]<br/>
-[💻 git and github ]<br/>
-[💻 WSL2 and linux operating systems]
+[💻 frameworks like tailwind and bootstrap css]<br/>
+[💻 git and GitHub ]<br/>
+[💻 WSL2 and Linux operating systems]
 ...
 ## 🎓 Education
 
