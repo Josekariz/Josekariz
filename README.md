@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josekariz&layout=compact"/>
 
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Josekariz&show_icons=true&theme=dracula"/>
+
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
