@@ -61,7 +61,7 @@ I have acquired the following skills during my study time.
 
 [🎓 Moringa School], [🗓️ 24/2/2023] <br/>
 [🎓 Thinking creatively], [🌐 linkedIn leanring], [certificate](https://www.linkedin.com/learning/certificates/1a5f174c40470750619b70affe1d7f7fd7bdbf7e37c2abcabef432b018b4245d) <br/>
-[🎓 Communication foundtaion], [🌐 linkedIn leanring], [certificate](https://www.linkedin.com/learning/certificates/601785b09a84bc2e0b71b93fa004655e0e0887286de245c8236672de3ee7d960) <br/>
+[🎓 Communication foundation], [🌐 linkedIn leanring], [certificate](https://www.linkedin.com/learning/certificates/601785b09a84bc2e0b71b93fa004655e0e0887286de245c8236672de3ee7d960) <br/>
 [🎓 Teamwork Foundations], [🌐 linkedIn leanring], [certificate](https://www.linkedin.com/learning/certificates/f34552b6bff50b9a238a63de2ba041715c4dce38c0100b7aee0297c6b683eda1)
 
 ## 📧 Contact
