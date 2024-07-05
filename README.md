@@ -1,70 +1,59 @@
-# Hi,👨‍💻  Josekariz here 👋
+# Hi there, I'm Joseph! 👋
 
-<!--
-**Josekariz/Josekariz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Frontend Developer specializing in creating sleek and functional web solutions with a focus on modern technologies like React, Next.js, and Svelte. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josekariz&layout=compact"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
 
- 
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josekariz&layout=compact"/>
+- 💼 Developing Sleek and Functional Frontend Web Solutions.
+- 🌟 Building strong client partnerships with transparent communication.
+- ⏰ Flexible with time zone communications to accommodate clients.
+- 📚 Constantly learning and improving my skills.
 
+## 🛠️ Tech Stack
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-
- 
-## Languages am interested in 😄 
-
-<img align="left" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+- ReactJS
+- Next.js
+- Svelte
+- Express
+- JavaScript
+- MongoDB
 
 ## 💻 Projects
 
-[🏠 Hao]
-[I participated in a school group project whereby we aimed to create a general market for all rental houses]
+### AnimeVault Web App
+Dynamic and engaging user experience with Server Actions, Infinite Scrolling, and Framer Motion Animations.
+- [Check it out](https://github.com/Josekariz/aniVault)
 
-[Hao](https://github.com/Josekariz/hao-frontend)
+### Autolib: Where Car Passion Meets Real Stories
+Discover authentic car stories and experiences from real owners.
+- [Check it out](https://github.com/Josekariz/reactautolib)
 
-[🌐 16ixteenbeatz]
-[Being the first project I desired and pushed myself to new areas in an attempt to create an offline music player site.]
+### Aesthetic-color-picker
+Customize website aesthetics with live previews and color pickers.
+- [Check it out](https://github.com/Josekariz/Aesthetic-color-picker)
 
-[16ixteenbeatz](https://github.com/josekariz/16ixteenbeatz)
+### Happybarks: Enhancing Canine Welfare
+Improving the relationship between humans and dogs through skill enhancement.
+- [Check it out](https://github.com/Josekariz/happybarks_1)
 
-[📱 Happybarks]
-[The aim was to create a system that would sharpen dogs' skills and improve the health of man's best friend.]
+## 🌟 Testimonials
 
-[happybarks](https://github.com/Josekariz/happybarks_1)
+### Marrionette, ALX Graduate
+"Working with Joseph was a game-changer. His passion and unique perspective make him an exceptional collaborator."
+  
+### Chris, CEO and Co-founder of Koditrack
+"Joseph's keen focus on design makes his apps fun and highly functional. Excited to see his future projects!"
 
-## 🔧 Skills
+### Davi, Close Friend
+"Joseph's progress blows me away. His work with frameworks like Next.js is impressive."
 
-I have acquired the following skills during my study time.
-[💻 A fast learner]<br/>
-[💻 Determined]<br/>
-[💻 Team player]<br/>
-[💻 frameworks like tailwind and bootstrap css]<br/>
-[💻 git and GitHub ]<br/>
-[💻 WSL2 and Linux operating systems]
-...
-## 🎓 Education
+## 📧 Contact Me
 
-[🎓 Moringa School], [🗓️ 24/2/2023] <br/>
-[🎓 Thinking creatively], [🌐 linkedIn leanring], [certificate](https://www.linkedin.com/learning/certificates/1a5f174c40470750619b70affe1d7f7fd7bdbf7e37c2abcabef432b018b4245d) <br/>
-[🎓 Communication foundation], [🌐 linkedIn leanring], [certificate](https://www.linkedin.com/learning/certificates/601785b09a84bc2e0b71b93fa004655e0e0887286de245c8236672de3ee7d960) <br/>
-[🎓 Teamwork Foundations], [🌐 linkedIn leanring], [certificate](https://www.linkedin.com/learning/certificates/f34552b6bff50b9a238a63de2ba041715c4dce38c0100b7aee0297c6b683eda1)
+- Email: [sejokarizz@gmail.com](mailto:sejokarizz@gmail.com)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/josephkariz/)
 
-## 📧 Contact
+## 🚀 Ready to Skyrocket Your Digital Game?
 
-✉️ [Email](sejokarizz@gmail.com)
-
+Reach out to me today, and together, let's bring your goals to life!
