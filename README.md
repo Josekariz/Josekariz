@@ -62,7 +62,6 @@ Improving the relationship between humans and dogs through skill enhancement.
 
 Reach out to me today, and together, let's bring your goals to life!
 
-![GitHub followers](https://img.shields.io/github/followers/Josekariz?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Josekariz?style=social)
 
-![Animated SVG](https://www.svgrepo.com/show/264722/coding-computer.svg)
+
