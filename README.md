@@ -6,8 +6,6 @@ I'm a passionate Frontend Developer specializing in creating sleek and functiona
 
 <br clear="left"/>
 
-![Coder GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 ## 🚀 About Me
 
 - 💼 Developing Sleek and Functional Frontend Web Solutions.
@@ -23,6 +21,8 @@ I'm a passionate Frontend Developer specializing in creating sleek and functiona
 - Express
 - JavaScript
 - MongoDB
+
+![Coder GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ## 💻 Projects
 
@@ -61,3 +61,8 @@ Improving the relationship between humans and dogs through skill enhancement.
 ## 🚀 Ready to Skyrocket Your Digital Game?
 
 Reach out to me today, and together, let's bring your goals to life!
+
+![GitHub followers](https://img.shields.io/github/followers/Josekariz?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Josekariz?style=social)
+
+![Animated SVG](https://www.svgrepo.com/show/264722/coding-computer.svg)
