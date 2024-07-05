@@ -2,9 +2,11 @@
 
 I'm a passionate Frontend Developer specializing in creating sleek and functional web solutions with a focus on modern technologies like React, Next.js, and Svelte. Welcome to my GitHub profile!
 
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josekariz&layout=compact"/>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josekariz&layout=compact"/>
 
 <br clear="left"/>
+
+![Coder GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ## 🚀 About Me
 
