@@ -84,3 +84,5 @@ When I'm not coding, you can find me playing **Call of Duty Mobile**!
 <p align="center">
   💼 Open to exciting job opportunities and collaborations!
 </p>
+
+---
