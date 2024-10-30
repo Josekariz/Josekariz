@@ -35,7 +35,6 @@ I'm a passionate Frontend Developer specializing in crafting engaging, interacti
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Josekariz&show_icons=true&theme=radical" alt="Joseph's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josekariz&theme=radical" alt="Joseph's GitHub streak" />
 </p>
 
 ## 🎨 Projects
