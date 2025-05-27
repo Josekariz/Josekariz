@@ -55,7 +55,7 @@ A platform for car enthusiasts to share authentic stories and experiences.
 
 When I'm not coding, you can find me playing **Call of Duty Mobile**!
 
-![Call of Duty: Mobile](https://img.shields.io/badge/-Call_of_Duty:_Mobile-000000?style=for-the-badge&logo=activision&logoColor=white):
+![Call of Duty: Mobile](https://img.shields.io/badge/-Call_of_Duty:_Mobile-000000?style=for-the-badge&logo=activision&logoColor=white)
 ```
 @sejokarizz
 ```
