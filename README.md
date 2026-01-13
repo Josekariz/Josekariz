@@ -31,12 +31,6 @@ I'm a passionate Frontend Developer specializing in crafting engaging, interacti
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josekariz&show_icons=true&theme=radical" alt="Joseph's GitHub stats" />
-</p>
-
 ## 🎨 Projects
 
 ### 🌈 [Colorfy App](https://github.com/Josekariz/colorfy)
