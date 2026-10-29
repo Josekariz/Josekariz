@@ -14,7 +14,6 @@ I'm a passionate Frontend Developer specializing in crafting engaging, interacti
 - 🌱 Exploring **Three.js** for immersive 3D web experiences.
 - 👯 Open to collaborating on open-source projects and innovative web applications.
 - 💬 Ask me about frontend development, UI/UX design, or anything tech-related!
-- ⚡ Fun fact: I'm a dedicated **Call of Duty Mobile** player in my spare time!
 
 ## 🛠️ Tech Stack
 
@@ -30,29 +29,6 @@ I'm a passionate Frontend Developer specializing in crafting engaging, interacti
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
-
-## 🎨 Projects
-
-### 🌈 [Colorfy App](https://github.com/Josekariz/colorfy)
-A sleek color palette generation tool built with **Next.js 14** and **Chroma.js**.
-
-### 🍎 [Apple Website Clone](https://github.com/Josekariz/apple-website-clone)
-A fully functional clone of Apple's iPhone 15 Pro website using **React**, **Vite**, and **Three.js**.
-
-### 🎬 [AnimeVault Web App](https://github.com/Josekariz/aniVault)
-A feature-rich anime web application with **server actions** and **infinite scrolling**.
-
-### 🚗 [Autolib](https://github.com/Josekariz/reactautolib)
-A platform for car enthusiasts to share authentic stories and experiences.
-
-## 🎮 Gaming
-
-When I'm not coding, you can find me playing **Call of Duty Mobile**!
-
-![Call of Duty: Mobile](https://img.shields.io/badge/-Call_of_Duty:_Mobile-000000?style=for-the-badge&logo=activision&logoColor=white)
-```
-@sejokarizz
-```
 
 ## 📫 Let's Connect
 
@@ -71,14 +47,6 @@ When I'm not coding, you can find me playing **Call of Duty Mobile**!
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Josekariz&color=blueviolet" alt="Profile views">
-</p>
-
 <p align="center">
   💼 Open to exciting job opportunities and collaborations!
 </p>
-
----
